@@ -1,0 +1,12 @@
+table {
+    width: 100%;
+    margin: 20px auto;
+}
+tr > td, tr > th {
+    border-bottom: 1px solid gray;
+    padding-top: 8px;
+    padding-bottom: 10px;
+}
+th {
+    text-align: left;
+}
